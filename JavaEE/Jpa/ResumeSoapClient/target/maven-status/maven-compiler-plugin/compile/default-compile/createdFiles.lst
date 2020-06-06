@@ -1,0 +1,11 @@
+com\company\resumesoapclient\Main.class
+com\alma\ws\GetAllUserResponse.class
+com\alma\ws\ResumeWebService_Service.class
+com\alma\ws\GetUser.class
+com\alma\ws\ObjectFactory.class
+com\alma\ws\User.class
+com\alma\ws\GetAllUser.class
+com\alma\ws\ResumeWebService.class
+com\alma\ws\services\ResumeWebServiceClient.class
+com\alma\ws\GetUserResponse.class
+com\alma\ws\package-info.class
